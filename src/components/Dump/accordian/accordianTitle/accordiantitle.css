@@ -1,0 +1,19 @@
+.cross{
+    color:white;
+    float: right;
+    font-size: 25px;
+}
+.accordian-title{
+    background-color: #303030;
+    padding: 0.8em 1.2em 0.8em 1.2em;
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: left;
+}
+.plus{
+    color:white;
+    float: right;
+    font-size: 25px;
+}

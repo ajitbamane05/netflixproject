@@ -1,0 +1,23 @@
+.footer-section{
+    background-color: black;
+   
+}
+.footer-wrapper{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px 56px 80px 56px;
+}
+.footer-column{
+    display: flex;
+    flex-direction: column;
+}
+.care-no{
+    color: #757575;
+    margin-top: 0px;
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 80px;
+    font-weight: 400;
+}

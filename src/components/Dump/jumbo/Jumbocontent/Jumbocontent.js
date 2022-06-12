@@ -35,10 +35,10 @@ function Jumbocontent() {
       <div className='jumbo-content'>
       { 
          data.map( (item,index) => (
-         <>
+         <div key={index} >
          <Jumboitem alignment={index%2===0} title={item.title} subtitle={item.subtitle} imgAlt={item.imgAlt} imageSrc={item.imageSrc} />
          <Seperator/>
-         </>
+         </div>
          ))
         
       } 
