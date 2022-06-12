@@ -31,9 +31,9 @@ function HeaderComponent(){
             </Featuretext>
         <SubscribeWrapper>
             <SubscribeMail type="email"  className="subscribe-mail" />
-            <Subuscribebutton className="subscribe-button">
-                {"Get Started"}   {">"}
-            </Subuscribebutton>
+                <Subuscribebutton className="subscribe-button">
+                    {"Get Started"}   {">"}
+                </Subuscribebutton>
         </SubscribeWrapper>
        
     </Headerwrapper>
