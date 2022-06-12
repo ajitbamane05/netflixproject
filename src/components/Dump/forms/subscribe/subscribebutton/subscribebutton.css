@@ -1,0 +1,12 @@
+.subscribe-button{
+    background-color: #e50914;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 40px;
+    
+    cursor: pointer;
+    color: white;
+    width:fit-content;
+    padding: 0px 15px 10px 15px;
+    margin-bottom: 30px;
+}
