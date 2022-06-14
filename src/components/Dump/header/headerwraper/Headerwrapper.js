@@ -4,7 +4,7 @@ function Headerwrapper({children, ...restProps}) {
   return (
     <>
       <header className='header-wraper' {...restProps}>
-          <div >
+          <div className='header-background'>
           {children}
           </div>
       </header>

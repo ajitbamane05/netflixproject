@@ -1,0 +1,23 @@
+.signin-form-base{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    width: 100%;
+}
+.signin-wrapper{
+    height: 560px;
+    width: 314px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: rgba(0,0,0,0.75);
+    border-radius: 4px;
+    padding: 40px 68px 4px 68px;
+    margin-bottom: 60px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}

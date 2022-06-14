@@ -2,5 +2,9 @@
   .header-wraper{
       background-image: url('../../../../images/mainhomepage1.jpg');
       background-size: cover;
+     
       background-position: top-left;
+  }
+  .header-background{
+    background-color: rgba(0,0,0,0.50);
   }
