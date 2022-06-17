@@ -3,9 +3,9 @@ import './signbutton.css'
 function SignButton({children,...restProps}) {
   return (
     <>
-    <button className="sign-button" {...restProps}>
+    <span className="sign-button" {...restProps}>
         {children}
-    </button>
+    </span>
     </>
   )
 }
