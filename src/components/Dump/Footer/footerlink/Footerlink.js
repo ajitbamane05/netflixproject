@@ -4,7 +4,7 @@ import './footerlink.css'
 function Footerlink({children,...restProps}) {
   return (
     <>
-      <a className='footer-link' href="/faq" {...restProps}>{children}</a>
+      <p className='footer-link' {...restProps}>{children}</p>
     </>
   )
 }

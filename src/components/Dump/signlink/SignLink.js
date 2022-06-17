@@ -4,7 +4,7 @@ import './signlink.css'
 function SignLink({children,...restProps}) {
   return (
     <>
-    <a href="./signup" className='sign-link' {...restProps}>{children}</a>
+    <span className='sign-link' {...restProps}>{children}</span>
     </>
   )
 }

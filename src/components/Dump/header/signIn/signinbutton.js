@@ -6,7 +6,7 @@ function Signinbutton(props) {
     <>
       <div  onClick={props.click}> 
       <Link className='link' to='/signin'> 
-        <a className="signin" href="/signin">Sign In</a>
+        <p className="signin" >Sign In</p>
       </Link>
       </div>
     </>

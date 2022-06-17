@@ -20,7 +20,7 @@ function SignInComponent({children,...restProps}) {
              placeholder='password'
              autoComplete='off'/>
           <SignButton> Sign In</SignButton>
-          <SignText>New to Netflix? <SignLink > <Link className='link' to='/signup'>Sign up  now.</Link></SignLink></SignText>
+          <SignText className='signin-text'>New to Netflix? <SignLink > <Link className='link' to='/signup'>Sign up  now.</Link></SignLink></SignText>
           <SigninCapcha>This page is protected by Google reCAPTCHA to ensure you're not a bot. Learn more.</SigninCapcha>
        </form>
     </div>

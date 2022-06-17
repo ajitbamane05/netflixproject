@@ -21,3 +21,7 @@
     text-decoration: none;
     color: white;
 }
+.signin-text{
+    display: flex;
+    flex-direction: row;
+}
