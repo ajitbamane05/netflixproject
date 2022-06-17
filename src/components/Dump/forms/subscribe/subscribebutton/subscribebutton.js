@@ -5,7 +5,7 @@ function Subuscribebutton({children,...restProps}){
     return(
          <>
           <div className="subscribe-button">
-              <a  href="./signup" {...restProps}>
+              <a  href="/signup" {...restProps}>
                   {children} 
               </a>
           </div>
