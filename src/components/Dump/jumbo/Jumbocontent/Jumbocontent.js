@@ -9,7 +9,7 @@ function Jumbocontent() {
             'title':'Enjoy on your TV.',
             'subtitle':'Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.',
             'imgAlt':'',
-            'imageSrc' : 'images/homepage/tv.png'
+            'imageSrc' : 'images/homepage/tv.jpg'
     
         },
         {
@@ -22,7 +22,7 @@ function Jumbocontent() {
             'title':'Watch everywhere.',
             'subtitle':'Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.',
             'imgAlt':'',
-            'imageSrc':'../../../../images/homepage/device.png'
+            'imageSrc':'../../../../images/homepage/device.jpg'
         },
         {
              'title':'Create profiles for children.',
